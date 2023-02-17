@@ -1,3 +1,17 @@
 # portfolio
-Estudos de HTML e CSS
-Esse site foi desenvolvido com estudos na Alura, estou iniciando e provavelmente farei modificações nele
+
+Evolução dos Estudos
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+
+### Victor Pintassilgo
+
+### Linkedin: https://www.linkedin.com/in/victor-pintassilgo-2b94a27b/
