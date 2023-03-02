@@ -1,14 +1,12 @@
 # portfolio
 
-Evolução dos Estudos
+Evolução dos Estudos de Flex box
 
 ## Ferramentas utilizadas:
 
 * HTML
 
 * CSS
-
-* Flex-box
 
 ## Feito por:
 
